@@ -32,7 +32,7 @@ export const USER_DIRECTORY_TEMPLATE = Object.freeze({
     koboldAI_Settings: 'KoboldAI Settings',
     openAI_Settings: 'OpenAI Settings',
     textGen_Settings: 'TextGen Settings',
-    themes: 'themes',
+    themes: '../../public/themes',
     movingUI: 'movingUI',
     extensions: 'extensions',
     instruct: 'instruct',
